@@ -66,7 +66,8 @@ grunt build
 
 to zip the project to dist/bitscoop-alexa-demo-<version>.zip
 
-Alternatively, you can download a pre-zipped copy of the code at <INSERT_LINK_HERE>.
+Alternatively, you can download a pre-zipped copy of the code at https://cdn.bitscoop.com/bitscoop-alexa-demo/0.1.0/bitscoop-alexa-demo-0.1.0.zip.
+The SHA-256 hash for this file is https://cdn.bitscoop.com/bitscoop-alexa-demo/0.1.0/bitscoop-alexa-demo-0.1.0.zip.
 
 Whichever way you chose, you need to upload this code to Lambda.
 
